@@ -1,0 +1,153 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>All in an epistle. Or, A letter from a gentleman to his father, upon occasion of the Armies retreat to Wickham. Calculated for a private meridian at first, but (in a way of satisfaction) may serve indifferently for the whole kingdome.</title>
+            <author>Gentleman.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76045</idno>
+            <idno type="STC">Wing A935</idno>
+            <idno type="STC">Thomason E396_13</idno>
+            <idno type="EEBO-CITATION">99862149</idno>
+            <idno type="PROQUEST">99862149</idno>
+            <idno type="VID">160345</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76045)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160345)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 63:E396[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>All in an epistle. Or, A letter from a gentleman to his father, upon occasion of the Armies retreat to Wickham. Calculated for a private meridian at first, but (in a way of satisfaction) may serve indifferently for the whole kingdome.</title>
+                  <author>Gentleman.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare, 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "July 3d London".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160345:1" rendition="simple:additions"/>
+            <p>All in an Epiſtle. OR, A LETTER From a Gentleman to his Father, up<g ref="char:EOLhyphen"/>on Occaſion of the Armies Retreat to WICKHAM.</p>
+            <p>Calculated for a private <hi>Meridian</hi> at firſt, but (in a way of Satisfaction) may ſerve Indifferently for the whole KINGDOME.</p>
+            <p>Printed in the Yeare, 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:160345:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:160345:2"/>
+            <head>A Letter from a Gentleman to his Father, upon occaſion of the Ar<g ref="char:EOLhyphen"/>mies Retreat to <hi>Wickham.</hi>
+            </head>
+            <opener>
+               <salute>Deare Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">L</seg>Aſt weeke I had not leiſure to in<g ref="char:EOLhyphen"/>large my ſelfe, and apprehending yeſterday by your Friends diſ<g ref="char:EOLhyphen"/>courſe, that it were a matter of charity to ſettle your opinions, take what I write for certaine: Yeſterday the Generall removed from <hi>Uxbridge</hi> to <hi>wickham.</hi> This Retreat ſtaggers many Roy<g ref="char:EOLhyphen"/>alliſts, who (for the moſt part) expected and wiſhed for an immediate in-rode to the City, with a preſent diſſolution of this Parliament, and makes them feare, as if the Army meant to give over thoſe Reſolutions, which aſſure your ſelfe they will maintaine to a tittle, and imme<g ref="char:EOLhyphen"/>diately ſettle the Kingdome. Give me leave to ſtate the policie of proceedings unto you, thus:</p>
+            <pb n="2" facs="tcp:160345:3"/>
+            <p>The Army having declared and remonſtrated highly againſt a prevailing Faction (which is indeed the <hi>Scottiſh-Presbyteriall</hi> Partie, and drive on their Intereſt in this Nation, to the prejudice of the Publike, for their owne pri<g ref="char:EOLhyphen"/>vate ends, under a pretence of Reformation) in the Houſe; and having impeached the <hi>Heads</hi> of that Party in a publike Charge, it was ne<g ref="char:EOLhyphen"/>ceſſary they ſhould appeare reſolute in Action, as well as Declaration; and therefore thought the onely expedient to quicken things to a pe<g ref="char:EOLhyphen"/>riod, was an approach to the City, (not to enter it, or prejudice it in the leaſt meaſure, onely to lye about it at a competent Neigh<g ref="char:EOLhyphen"/>bourhood) till ſatisfaction were given in all particulars, or (at leaſt) things put in a way conducing thereto.</p>
+            <p>This Reſolution certified by Letters from the Councell of Warre, dated from Saint <hi>Al<g ref="char:EOLhyphen"/>banes</hi> to the Parliament and City, rang an A<g ref="char:EOLhyphen"/>larm in every corner; and that very afternoon the Lord Maior ſummoning a Common Coun<g ref="char:EOLhyphen"/>cell, it was unanimouſly agreed by the whole Heard (though all <hi>Presbyters</hi>) to act nothing that might repreſent the face of a New Warre, in oppoſition to the Army, but rather to comply with them in all reſpects; and to that purpoſe they went and deſired the Houſes to give them leave to ſtand <hi>noutrall,</hi> and become <hi>Mediators</hi> with the Army; which being aſſented to, they diſpatched away Commiſſioners of their owne,
+<pb n="3" facs="tcp:160345:3"/>to lye <hi>Leiger</hi> with the Generall, where they ſtill remaine.</p>
+            <p>The City thus leaving the <hi>Faction</hi> in the lurch (like <hi>Covenant-breakers,</hi> ſay our State Divines in every Pulpit) it was time for the <hi>Impeached Members</hi> to adjourne; but unwil<g ref="char:EOLhyphen"/>ling to have an inglorious <hi>Exit,</hi> they reſolved upon one maine lift ere they parted, to over<g ref="char:EOLhyphen"/>throw the Deſigne of the Army; for, knowing well (howſoever they and their Prieſts pretend the Proceedings of the Army as Anti-Parlia<g ref="char:EOLhyphen"/>mentary to the people) that the Armies ay me is not to goe againſt this Parliament by cloſing with the King without Them (which would ſound ill in Hiſtory hereafter, being they were an Army firſt raiſed by Them;) but firſt to make termes with the Parliament, in behalfe of the <hi>King, Themſelves</hi> and the <hi>King<g ref="char:EOLhyphen"/>dome</hi> (which will now be freed from all <hi>Scottiſh</hi> Incroachments under pretence of Reforming,) and then to carry the King into his Throne, through Parliament, upon their owne ſhoul<g ref="char:EOLhyphen"/>ders: Thoſe Impeached Grandees (I ſay) know<g ref="char:EOLhyphen"/>ing this, indeavoured with all their might in the Houſe (if poſſible) to adjourne or diſſolve the Parliament by Vote; and ſo beſides an im<g ref="char:EOLhyphen"/>pediment to the Deſigne of the Army, hoped to leave the ſcandall of it upon the Army, by pretending it was occaſioned for feare of Them.</p>
+            <pb n="4" facs="tcp:160345:4"/>
+            <p>But this Plot not taking, they thought meet in the cloſe of the day to bid <hi>good night;</hi> which <hi>Hollis</hi> did firſt to this ſence, that rather then he would betray himſelfe to a ſuſpition of guilt, by ſtanding out upon a Plea of <hi>Parliamentarie Pri<g ref="char:EOLhyphen"/>viledge</hi> againſt the impeachment, he did willing<g ref="char:EOLhyphen"/>ly conſent (according to the demand of the Ar<g ref="char:EOLhyphen"/>my) that himſelfe and partners might refraine from the Houſe, and come to a Tryall; which they would attend a moneths ſpace in expecta<g ref="char:EOLhyphen"/>tion here to acquit themſelves; and if it were not effected in that time, that then the Houſe would be pleaſed to permit them to travell. According to this they have all agreed and ab<g ref="char:EOLhyphen"/>ſented themſelves ever ſince, lurking ſtill in Towne for a good houre: But ſo ſharp an accu<g ref="char:EOLhyphen"/>ſation is drawne by the Army in particulars (which will be punctually proved) to manage the Tryall, that I ſuppoſe as ſoone as it comes in at one Court of Guard, they will out at a<g ref="char:EOLhyphen"/>nother to take the Aire beyond <hi>Berwick:</hi> So that now the <hi>Faction</hi> being flat, the <hi>Votes</hi> begin alrea<g ref="char:EOLhyphen"/>dy to ſhrinke to the other ſide, inſomuch as it is reſolved by both <hi>Houſes,</hi> that they doe owne the Army as <hi>Theirs,</hi> and will take care that they be provided for, and paid from time to time.</p>
+            <p>Now, things ſtanding thus, that the Army hath brought the City to their owne Bow, quelled the adverſe partie, huſh't all preparati<g ref="char:EOLhyphen"/>ons or thought of a <hi>new Warre,</hi> and all this by the meere noiſe of an approach, and having all
+<pb n="5" facs="tcp:160345:4"/>parts (and moſt hearts) of the Kingdome be<g ref="char:EOLhyphen"/>ſides, firmly devoted to them, they judged it convenient ſo farre to comply both with the Parliament and City, who have thus fairly com<g ref="char:EOLhyphen"/>plyed with them, as to remove at more diſtance, that they may leſſen all Jealouſies, and not be burthenſome by raiſing the price of Victuall in <hi>London;</hi> and alſo to <hi>Parle</hi> of ſuch expedients, as may tend to a ſpeedie Allay of all diſtem<g ref="char:EOLhyphen"/>pers, by ſetling the King in his juſt Rights, the Subject in due Libertie, and the whole King<g ref="char:EOLhyphen"/>dome in Tranquillity and Vnity.</p>
+            <p>Let this be one Argument to confirm you in an opinion of their well meaning toward the King, becauſe they can have no laſting aſſu<g ref="char:EOLhyphen"/>rance of what they aime at, without the <hi>Royall Aſſent</hi> in Parliament: And alſo it highly con<g ref="char:EOLhyphen"/>cernes them to ſee him re-inſtated with <hi>Free<g ref="char:EOLhyphen"/>dome, Honour,</hi> and <hi>full Authority</hi> that the grea<g ref="char:EOLhyphen"/>ter reverence may be given to thoſe Acts, which ſhall be provided for, in behalfe of themſelves and the whole People.</p>
+            <p>And thus (Sir) becauſe you are my Father, I have adventured (though in haſte. curſorily) to give you a <hi>Breviat</hi> of the whole ſcope of Affaires, for the ſatisfaction of your ſelfe and friends.</p>
+            <p>The King was Voted back againe to <hi>Holdenby</hi> (which very Vote breeds all this Jealouſie of the Armies deſerting Him;) but he being un<g ref="char:EOLhyphen"/>willing that way, <hi>Windſore</hi> Caſtle was judged
+<pb n="6" facs="tcp:160345:5"/>moſt convenient (according to the Kings de<g ref="char:EOLhyphen"/>ſire) if ſo bee His Majeſty conceived that the very name of a Caſtle would not cauſe ſcandall, and create a new Jealouſie. Howſoever the King lodges this night at <hi>Windſor,</hi> and Commiſſio<g ref="char:EOLhyphen"/>ners both from the Parliament and Army, are met together at <hi>Uxbridge,</hi> to draw things to particular Heads, in order to a compoſure of all differences, and a ſpeedy ſetling the Peace of the Kingdome.</p>
+            <closer>
+               <signed>Your most Obedient Son.</signed>
+               <dateline>London, <date>
+                     <hi>Iuly.</hi> 3. 1647.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
